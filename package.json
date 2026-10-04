@@ -1,0 +1,26 @@
+{
+  "name": "massaari",
+  "version": "1.0.0",
+  "description": "Massaari.com - Complete finance and loan education platform",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "build": "echo 'Static site - no build required'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ommehta0022/insta-auto.git"
+  },
+  "keywords": [
+    "finance",
+    "loans",
+    "education",
+    "static-site"
+  ],
+  "author": "ommehta0022",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ommehta0022/insta-auto/issues"
+  },
+  "homepage": "https://github.com/ommehta0022/insta-auto#readme"
+}
